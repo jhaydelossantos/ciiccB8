@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Task3",
+            "request": "launch",
+            "mainClass": "javaActivities.Task3",
+            "projectName": "ciiccB8_a8595bb7"
+        },
+        {
+            "type": "java",
             "name": "PrimitiveConcat",
             "request": "launch",
             "mainClass": "javaActivities.PrimitiveConcat",
