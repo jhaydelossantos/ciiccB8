@@ -1,0 +1,91 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "PrimitiveConcat",
+            "request": "launch",
+            "mainClass": "javaActivities.PrimitiveConcat",
+            "projectName": "ciiccB8_a8595bb7"
+        },
+        {
+            "type": "java",
+            "name": "Task2",
+            "request": "launch",
+            "mainClass": "javaActivities.Task2",
+            "projectName": "ciiccB8_a8595bb7"
+        },
+        {
+            "type": "java",
+            "name": "SwitchStatement",
+            "request": "launch",
+            "mainClass": "otherFolder.SwitchStatement",
+            "projectName": "ciiccB8_a8595bb7"
+        },
+        {
+            "type": "java",
+            "name": "ConditionalStatement",
+            "request": "launch",
+            "mainClass": "chapter2.ConditionalStatement",
+            "projectName": "ciiccB8_a8595bb7"
+        },
+        {
+            "type": "java",
+            "name": "Arrays",
+            "request": "launch",
+            "mainClass": "chapter1.Arrays",
+            "projectName": "ciiccB8_a8595bb7"
+        },
+        {
+            "type": "java",
+            "name": "InputAndArithmetic",
+            "request": "launch",
+            "mainClass": "chapter1.InputAndArithmetic",
+            "projectName": "ciiccB8_a8595bb7"
+        },
+        {
+            "type": "java",
+            "name": "VariablesAndFundamentals",
+            "request": "launch",
+            "mainClass": "Variable.VariablesAndFundamentals",
+            "projectName": "ciiccB8_a8595bb7"
+        },
+        {
+            "type": "java",
+            "name": "VariablesAndFundamentals",
+            "request": "launch",
+            "mainClass": "VariablesAndFundamentals",
+            "projectName": "ciiccB8_a8595bb7"
+        },
+        {
+            "type": "java",
+            "name": "ReferenceLesson",
+            "request": "launch",
+            "mainClass": "chapter1.ReferenceLesson",
+            "projectName": "ciiccB8_a8595bb7"
+        },
+        {
+            "type": "java",
+            "name": "PrimitiveLesson",
+            "request": "launch",
+            "mainClass": "chapter1.PrimitiveLesson",
+            "projectName": "ciiccB8_a8595bb7"
+        },
+        {
+            "type": "java",
+            "name": "InstanceIniLesson",
+            "request": "launch",
+            "mainClass": "chapter1.InstanceIniLesson",
+            "projectName": "ciiccB8_a8595bb7"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        }
+    ]
+}
